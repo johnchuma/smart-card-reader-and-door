@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471918202322",
+    "project_id": "cardscanner-a13c1",
+    "storage_bucket": "cardscanner-a13c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471918202322:android:a8b6970b83e6a432538c0b",
+        "android_client_info": {
+          "package_name": "com.example.cardscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471918202322-sld9do031bb52rfterqod3ljta3f338k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwMqXdq0nSHXrdDHlBKsnVmtvkIEV3jRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471918202322-sld9do031bb52rfterqod3ljta3f338k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
